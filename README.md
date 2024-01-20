@@ -1,7 +1,7 @@
- ### Hola soy Jhonny Limachi-Choque, criador de conteúdo de pesquisa e innovação!
+ ### I am Jhonny Limachi-Choque, creator of research and innovation content!
 
  
-Pessoal que veio atrás do Github Stats: a API provavelmente saiu do ar nesse período, mas você pode adicionar a sua própria, seguindo esse tutorial
+Folks who came after Github Stats: the API probably went down during this period, but you can add your own by following this tutorial
 
 <div> 
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=JhonnyLimachi&theme=blue-green">
