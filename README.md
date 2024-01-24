@@ -1,6 +1,6 @@
  ### I am Jhonny Limachi-Choque
  
-clinical researcher at the Centro de Universitario de Medicina Tropical "CUMETROP", Universidad Mayor de San Simón.
+Clinical researcher at the Centro de Universitario de Medicina Tropical "CUMETROP", Universidad Mayor de San Simón.
 
 As an experienced Data Scientist and clinical researcher, I combine analytical skills, ability to work in team environments and attention to detail. Having spent the last few years applying Machine Learning to real problems in Health Research, I developed critical thinking and problem solving skills.
 
