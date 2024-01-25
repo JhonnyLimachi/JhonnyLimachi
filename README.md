@@ -4,7 +4,7 @@ Clinical researcher at the Centro de Universitario de Medicina Tropical "CUMETRO
 
 As an experienced Data Scientist and clinical researcher, I combine analytical skills, ability to work in team environments and attention to detail. Having spent the last few years applying Machine Learning to real problems in Health Research, I developed critical thinking and problem solving skills.
 
-My credentials include a Masters in Public and International Health and another Masters in Health Research at the Universidad Mayor de San Simon, an institution of higher education and advanced research ranked as one of the best and most prestigious medical schools in Bolivia.
+My credentials include a Masters in Public Health and another Masters in Health Research at the Universidad Mayor de San Simon, an institution of higher education and advanced research ranked as one of the best and most prestigious medical schools in Bolivia.
 
 <div> 
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=JhonnyLimachi&theme=blue-green">
