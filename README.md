@@ -1,4 +1,4 @@
- ### I am Jhonny Limachi-Choque
+ ### Jhonny Limachi-Choque
  
 Clinical researcher at the Centro de Universitario de Medicina Tropical "CUMETROP", Universidad Mayor de San Simón.
 
