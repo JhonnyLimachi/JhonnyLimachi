@@ -15,7 +15,7 @@ My credentials include a Masters in Public and International Health and another 
 
   <img align="center" alt="Jhonny-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jhonny-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Jhonny-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/R/R-original.svg">
+  <img align="center" alt="Jhonny-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Rsharp/Rsharp-original.svg">
 </div>
 
   ##
