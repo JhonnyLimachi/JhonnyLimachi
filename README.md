@@ -6,9 +6,7 @@ As an experienced Data Scientist and clinical researcher, I combine analytical s
 
 My credentials include a Masters in Public Health and another Masters in Health Research at the Universidad Mayor de San Simon, an institution of higher education and advanced research ranked as one of the best and most prestigious medical schools in Bolivia.
 
-<div> 
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=JhonnyLimachi&theme=blue-green">
-</div>
+
 
 
 <div style="display: inline_block"><br>
